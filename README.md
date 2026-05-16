@@ -45,6 +45,10 @@ TypeChallenge/
 No installation needed. Simply open `index.html` 
 in your browser.
 
+## LIVE DEMO
+
+🔗 Live Demo — 
+
 ## 👤 Author
 
 **Bellamy30** — Computer Science Student  
