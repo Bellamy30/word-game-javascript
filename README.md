@@ -47,7 +47,7 @@ in your browser.
 
 ## LIVE DEMO
 
-🔗 Live Demo — 
+🔗 Live Demo — https://bellamy30.github.io/word-game-javascript/
 
 ## 👤 Author
 
