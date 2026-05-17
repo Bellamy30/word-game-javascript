@@ -47,7 +47,7 @@ in your browser.
 
 ## LIVE DEMO
 
-🔗 Live Demo — https://bellamy30.github.io/word-game-javascript/
+👉 [Play TypeChallenge] (https://bellamy30.github.io/word-game-javascript/TypeChallenge/index.html)
 
 ## 👤 Author
 
